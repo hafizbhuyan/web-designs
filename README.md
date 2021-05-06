@@ -7,3 +7,6 @@ creating web designs on my own. I won't be creating the designs,
 b/c I'm not a designer, but looking up really well designed sites
 through Google and YouTube and doing my best to match the whole
 site or a few of the designs on it.
+
+Credits:
+css-grid: Fireship
